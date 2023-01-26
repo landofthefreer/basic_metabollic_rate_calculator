@@ -26,8 +26,8 @@ if BMI > 0:
 else:
     print("Enter valid input.")
 
-#Enter your name: Luis
-#Enter your weight in pounds: 132
-#Enter your height in inches: 66
-#21.303030303030305
-#Luis, you are normal weight.
+# Enter your name: Luis
+# Enter your weight in pounds: 132
+# Enter your height in inches: 66
+# 21.303030303030305
+# Luis, you are normal weight.
