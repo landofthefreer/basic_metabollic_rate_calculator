@@ -26,5 +26,3 @@ if BMI > 0:
 else:
     print("Enter valid input.")
 
-#BMI = (weight in pounds x 703) / (height in inches x height in inches)
-
